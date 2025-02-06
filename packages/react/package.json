@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@allef-ignite-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@allef-ignite-ui/eslint-config": "*",
+    "@allef-ignite-ui/tokens": "*",
+    "@allef-ignite-ui/ts-config": "*",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
   },
